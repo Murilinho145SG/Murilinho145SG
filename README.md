@@ -1,8 +1,4 @@
-### Hello! I'm a Backend Developer & Modder 👋
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Building%20Robust%20Systems&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Go • TypeScript • Java • C&descAlignY=55&descAlign=50" width="100%"/>
-</div>
+### Hello! My name is Murillo and i'm a Backend Developer & Modder 👋
 
 ### 👨‍💻 About Me
 
