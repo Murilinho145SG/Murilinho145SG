@@ -52,17 +52,6 @@ I am proficient in both high and low-level languages, allowing me to bridge the 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilinho145SG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilinho145SG&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <sub>Let's build something great together.</sub>
 </div>
