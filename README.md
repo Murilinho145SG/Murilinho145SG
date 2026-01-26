@@ -17,10 +17,10 @@ My journey is not just about code, but about **entrepreneurship and infrastructu
 I am proficient in both high and low-level languages, allowing me to bridge the gap between modern web APIs and system optimization.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,java,c,docker,postgres,redis,linux,nginx&perline=9" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,java,c,docker,postgres,redis,linux,nginx&perline=9" />
 </div>
 
-*   **Main Languages:** Golang, TypeScript, Java, C.
+*   **Main Languages:** Golang, Rust, TypeScript, Java, C.
 *   **Databases:** PostgreSQL, Redis.
 *   **DevOps & SysAdmin:** Docker, Linux, Nginx, Server Deployments.
 
